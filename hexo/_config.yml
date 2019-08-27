@@ -7,14 +7,14 @@ title: Hexo
 subtitle:
 description:
 keywords:
-author: John Doe
-language: en
+author: Jarod Lee
+language: cn
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: https://m.ghtxx.cn
+root: /hexo
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -79,3 +79,7 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+netlify_cms:
+  config_file: netlify.yaml
+
