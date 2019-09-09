@@ -78,5 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repository:https://github.com/jarodlee/jarodlee.github.io.git
+  type: git
+  repository: https://github.com/jarodlee/jarodlee.github.io.git
+  branch: master
