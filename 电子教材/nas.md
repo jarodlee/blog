@@ -35,6 +35,7 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 
 ### windows电脑模拟
 通过FTP软件或HFS这样的工具实现。
+
 ![软件配置截图](./img/hfs.png)
 
 #### 优点
