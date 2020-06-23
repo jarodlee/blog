@@ -1,4 +1,4 @@
-# NAS方案对比
+﻿# NAS方案对比
 
 ## NAS功能
 NAS（Network Attached Storage：网络附属存储）按字面简单说就是连接在网络上，具备资料存储功能的装置，因此也称为“网络存储器”。
@@ -34,7 +34,7 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 ## windows电脑模拟
 通过FTP软件或HFS这样的工具实现。
 
-![软件配置截图] (./img/hfs.png)
+![软件配置截图](./img/hfs.png)
 
 ### 优点
 无需另行投资，软件安装配置完成后即可使用。
@@ -50,7 +50,7 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 ### 阿里云
 需要专业人员设置与维护。按年付费购买
 
-![阿里云购买图] (./img/ali_nas.png "阿里云nas购买图")
+![阿里云购买图](./img/ali_nas.png "阿里云nas购买图")
 
 ### 百度类网盘
 购买并下载APP使用，按年付费购买
