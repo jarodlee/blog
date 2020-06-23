@@ -33,6 +33,7 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 
 ## windows电脑模拟
 通过FTP软件或HFS这样的工具实现。
+
 ![软件配置截图] (./img/hfs.png)
 
 ### 优点
@@ -48,6 +49,7 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 
 ### 阿里云
 需要专业人员设置与维护。按年付费购买
+
 ![阿里云购买图] (./img/ali_nas.png "阿里云nas购买图")
 
 ### 百度类网盘
