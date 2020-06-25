@@ -215,3 +215,7 @@ Markdown的使用者：
 
 
 关于其它扩展语法可参见具体工具的使用说明。
+
+
+------------
+[此文章转自github](https://github.com/younghz/Markdown)
