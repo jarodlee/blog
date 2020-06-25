@@ -8,7 +8,7 @@
 
 [天天阅读](https://b.ghtxx.cn/ttyd)：自己每天碎片化的记录
 
-*********
+------------
 
 retry jekyll blog
 
