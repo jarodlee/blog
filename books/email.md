@@ -22,6 +22,8 @@
 
 ##在线使用email是一种最常见的方式
 
+[点击这个链接](https://exmail.qq.com/cgi-bin/loginpage?t=logindomain&s=logout&f=biz&param=e1@ghtxx.cn)就可以快速登录我们的电子邮箱了，这时就可以给你的老师和同学们写电子邮件了。
+
 这种方式不限时间、地点、电脑，随时可用，但每次都要输入密码有点麻烦不是吗？当我们有了自己的电子设备时，就可以使用一些更多快捷的方法了，下面我们来学习在自己的电脑和手机上使用email的方法吧：
 
 ## 在自己的windows 电脑上使用 Foxmail 软件：
