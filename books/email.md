@@ -30,21 +30,25 @@
 跟着老师的操作图，自己动手，一步步尝试吧!
 
 ### 1.下载安装
+
 ![01-下载.png](./pcmail/01.png)
 ![02-下载完成.png](./pcmail/02.png)
 ![03-开始安装.png](./pcmail/03.png)
 ![04-安装进度.png](./pcmail/04.png)
 
 ### 2.安装完成
+
 ![05-安装成功.png](./pcmail/05.png)
 ![06-桌面图标.png](./pcmail/06.png)
 
 ### 3.初次使用设置帐号
+
 ![07-新启动新建帐号.png](./pcmail/07.png)
 ![08-填入帐号与密码.png](./pcmail/08.png)
 ![09-设置成功.png](./pcmail/09.png)
 
 ### 4.开始写信
+
 ![10-成功进入foxmail.png](./pcmail/10.png)
 ![11-用foxmail写邮件.png](./pcmail/11.png)
 
@@ -55,6 +59,7 @@
  ### 1.找到邮件的应用
  
  智能手机中通常都自带有电子邮件的APP，就像foxmail一样：
+ 
  ![邮件APP](./mobileMail/1.png)
  
  ### 2.开始添加邮箱帐号：
@@ -63,15 +68,19 @@
  ![开始添加邮箱](./mobileMail/2.png)
  
  按提示输入自己的邮箱帐号（即机房座位号）
+ 
   ![填入邮箱用户名](./mobileMail/3.png)
   
  把后面的@qq.com修改成我们的@ghtxx.cn，并填入正确的密码
+ 
 ![修改邮箱服务名](./mobileMail/4.png)
+
 ![填入邮箱密码](./mobileMail/5.png)
 
 ### 3.使用邮件APP
 
 正确添加后就可以查收自己的邮件了！
+
 ![在手机查收邮件](./mobileMail/6.png)
 
 ![发送邮件中](./mobileMail/发送邮件中.png)
