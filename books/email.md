@@ -30,23 +30,23 @@
 跟着老师的操作图，自己动手，一步步尝试吧!
 
 ### 1.下载安装
-![01-下载.png](./foxmail/01.png)
-![02-下载完成.png](./foxmail/02.png)
-![03-开始安装.png](./foxmail/03.png)
-![04-安装进度.png](./foxmail/04.png)
+![01-下载.png](./pcmail/01.png)
+![02-下载完成.png](./pcmail/02.png)
+![03-开始安装.png](./pcmail/03.png)
+![04-安装进度.png](./pcmail/04.png)
 
 ### 2.安装完成
-![05-安装成功.png](./foxmail/05.png)
-![06-桌面图标.png](./foxmail/06.png)
+![05-安装成功.png](./pcmail/05.png)
+![06-桌面图标.png](./pcmail/06.png)
 
 ### 3.初次使用设置帐号
-![07-新启动新建帐号.png](./foxmail/07.png)
-![08-填入帐号与密码.png](./foxmail/08.png)
-![09-设置成功.png](./foxmail/09.png)
+![07-新启动新建帐号.png](./pcmail/07.png)
+![08-填入帐号与密码.png](./pcmail/08.png)
+![09-设置成功.png](./pcmail/09.png)
 
 ### 4.开始写信
-![10-成功进入foxmail.png](./foxmail/10.png)
-![11-用foxmail写邮件.png](./foxmail/11.png)
+![10-成功进入foxmail.png](./pcmail/10.png)
+![11-用foxmail写邮件.png](./pcmail/11.png)
 
 ##在自己的手机上使用电子邮件：
 
