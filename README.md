@@ -8,6 +8,8 @@
 
 [天天阅读](https://b.ghtxx.cn/ttyd)：自己每天碎片化的记录
 
+[微信公众号平台](https://mp.weixin.qq.com/)的限制太多，只适合作为商业宣传使用吧。
+
 ------------
 
 retry jekyll blog
