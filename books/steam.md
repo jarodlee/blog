@@ -5,7 +5,7 @@ steam有一个全平台的硬件分析网站：https://store.steampowered.com/hw
 
 很酷!
 
-##下面是我的：
+##下面是我的win7：
 
 ###电脑信息：
 
