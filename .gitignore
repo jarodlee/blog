@@ -1,0 +1,15 @@
+#以#开头代表注释行
+
+#忽略Runtime文件夹下的文件
+#/App/Runtime/*
+
+#忽略cache.php文件
+#cache.php
+
+#忽略.o,.c文件
+#*.[oc]
+
+#忽略除了index.php外的所以文件
+# !index.php
+
+/.vs/*
