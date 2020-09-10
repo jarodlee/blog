@@ -8,7 +8,7 @@
 
 ### 成就系统：
 
-[扫雷世界的成就系统](./minesweeper/achievement.png)
+![扫雷世界的成就系统](./minesweeper/achievement.png)
 
 ## 游戏目标：
 
