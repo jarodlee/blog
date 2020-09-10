@@ -6,6 +6,10 @@
 
 在全世界各个国家都有很多人热爱扫雷，我们可以通过《扫雷世界》这个网站与所有人竞赛：https://minesweeper.online/zh/
 
+### 成就系统：
+
+[扫雷世界的成就系统](./minesweeper/achievement.png)
+
 ## 游戏目标：
 
 找出空方块并避免触雷。
