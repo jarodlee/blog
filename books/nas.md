@@ -35,6 +35,8 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 
 开源软件，无任何版权问题，可选方案也较多。
 
+例如：openmediavault[https://www.openmediavault.org/screenshots.html] 
+
 #### 缺点
 
 需要一台电脑长期保持开机，并且需要专线接入的网络。 需要专业人员设置与维护。 仅支持电脑快速接入，手机接入较困难
