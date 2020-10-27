@@ -56,6 +56,28 @@
 
 ![扫雷世界的成就系统](./minesweeper/achievement.png)
 
+### 网站中的一些参数定义：
+
+ZiNi	 	點擊最小値
+
+H.ZiNi	Human ZiNi 	ZiNi仿人類算灋
+
+IoE	Index of Efficiency	效率指數	3BV / Cl
+
+ThrP		破空率	IoE / Corr
+
+Corr	Correctness	準確率	ECl / Cl
+
+ZNE		ZiNi Efficiency	點擊效率 ZiNi / Cl
+
+ZNT		有效點擊效率	ZiNi / ECl 
+
+RQP	Rapport Qualité Prix​​		(RTime+1) / 3BV/s
+
+IoS 		Index of Speed	速率指數	log (3BV) / log (Time - 1)
+
+感谢[一位玩家](https://minesweeper.online/zh/player/2731349)在聊天室中提供的回复
+
 ## 网络资料
 
 参考1：http://www.minesweeper.info/wiki/Strategy
