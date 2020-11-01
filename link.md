@@ -16,6 +16,9 @@
 
 文件交换工具：https://git.aqde.net:89
 
+OpenMediaNAS实验：https://ght.ghtxx.cn:1980/
+
+Debian GNU/Linux web console ：https://ght.ghtxx.cn:9090/
 
 ## 优秀的大厂平台
 
