@@ -1,0 +1,72 @@
+# 常用的链接整理
+
+既然有这个优秀的平台存在，为什么还要维护一个html版的链接表呢？整理起来一点都不方便，不如直接写在这边来的更快更实用。先来分类一下：
+
+## 自己搭建的学习平台与成果
+
+小米手机web服务：http://ghtxx.oicp.net/
+
+## 优秀的大厂平台
+
+苹果数据中心iCloud：https://www.icloud.com/
+
+谷歌搜索引擎：https://www.google.com/ncr
+
+开源软件社区：https://github.com/
+
+世界最大域名注册与交易平台：https://sg.godaddy.com/zh
+
+gTLD统计的通用顶级域名报表：https://ntldstats.com/
+
+纽约时报：https://cn.nytimes.com/
+
+微软在线：https://outlook.live.com/
+
+YouTobe：https://www.youtube.com/
+
+油管字幕：http://www.youtube.com/timedtext_cs_panel?c=UCfxmIcT75BFyrFo0vkMy4Gg&tab=2
+
+亚马逊云：https://ap-east-1.console.aws.amazon.com/ec2/home?region=ap-east-1#Home:
+
+Facebook：https://www.facebook.com/
+
+
+## 精致的网络应用
+
+全球测速：http://www.speedtest.net/
+
+安卓开源应用商店：https://f-droid.org/zh_Hans/
+
+全历史网站：https://www.allhistory.com/
+
+g0v计划：http://g0v.asia/
+
+台湾黑客松活动：https://presidential-hackathon.taiwan.gov.tw/en/
+
+台湾数字化vTaiWan：https://vtaiwan.tw/
+
+## 临时的网络记录
+
+免费小说：http://www.shuquge.com/txt/90081/index.html
+
+凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
+
+## 中国官方网站
+
+中国专利数据库: http://epub.sipo.gov.cn/sjsm.jsp
+
+国务院国情介绍:http://www.gov.cn/guoqing/index.htm
+
+新浪微博：https://weibo.com/jarodlee
+
+阿里云：https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=h7a5zesu
+
+中国教科网CERNET：https://www.edu.cn/
+
+腾讯机器人：https://taiq.qq.com/
+
+腾讯AI：https://ai.qq.com/
+
+百度AI：https://ai.baidu.com/
+
+小米AI：https://xiaoai.mi.com/
