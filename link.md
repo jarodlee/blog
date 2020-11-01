@@ -4,9 +4,22 @@
 
 ## 自己搭建的学习平台与成果
 
-小米手机web服务：http://ghtxx.oicp.net/
+小米手机web静态服务：http://ghtxx.oicp.net/
+
+创业记录：http://www.thex.ren
+
+购买的淘客平台：http://thex.ren
+
+机房监控软件prtg:http://aqxs.oicp.net
+
+干海棠学习中心纪念版：http://ght.ghtxx.cn:88
+
+文件交换工具：https://git.aqde.net:89
+
 
 ## 优秀的大厂平台
+
+最强CDN平台：:https://dash.cloudflare.com/ 
 
 苹果数据中心iCloud：https://www.icloud.com/
 
