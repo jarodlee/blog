@@ -67,6 +67,8 @@ g0v计划：http://g0v.asia/
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
+电影下载：https://www.ygdy8.com/index.html
+
 ## 中国官方网站
 
 中国专利数据库: http://epub.sipo.gov.cn/sjsm.jsp
@@ -86,3 +88,7 @@ g0v计划：http://g0v.asia/
 百度AI：https://ai.baidu.com/
 
 小米AI：https://xiaoai.mi.com/
+
+## 硬件设备
+
+锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
