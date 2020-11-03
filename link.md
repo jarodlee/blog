@@ -92,3 +92,14 @@ g0v计划：http://g0v.asia/
 ## 硬件设备
 
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
+
+## 电子竞技
+扫雷世界杯：http://www.minesweeper.info/
+
+扫雷练习赛：https://minesweeper.online/zh/
+
+Steam战网：https://store.steampowered.com/
+
+星际争霸【国服】：https://sc2.blizzard.cn/home
+
+坦克世界【国服】：https://wot.360.cn/
