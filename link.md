@@ -55,6 +55,8 @@ Facebook：https://www.facebook.com/
 
 全历史网站：https://www.allhistory.com/
 
+汉字萌典：https://www.moedict.tw/
+
 g0v计划：http://g0v.asia/
 
 台湾黑客松活动：https://presidential-hackathon.taiwan.gov.tw/en/
@@ -81,8 +83,6 @@ g0v计划：http://g0v.asia/
 
 中国教科网CERNET：https://www.edu.cn/
 
-腾讯机器人：https://taiq.qq.com/
-
 腾讯AI：https://ai.qq.com/
 
 百度AI：https://ai.baidu.com/
@@ -92,6 +92,8 @@ g0v计划：http://g0v.asia/
 ## 硬件设备
 
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
+
+腾讯机器人：https://taiq.qq.com/
 
 ## 电子竞技
 扫雷世界记录：http://www.minesweeper.info/ 注册后[可上传成绩](http://www.minesweeper.info/members/control.php)
