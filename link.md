@@ -89,6 +89,10 @@ g0v计划：http://g0v.asia/
 
 小米AI：https://xiaoai.mi.com/
 
+今日头条：https://www.toutiao.com/
+
+南海战略态势感知计划：http://www.scspi.org/zh
+
 ## 硬件设备
 
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
