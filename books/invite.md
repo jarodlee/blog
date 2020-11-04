@@ -7,6 +7,7 @@
 ### PC软件
 - 一个纯浏览器就可完整用的流程图、脑图工具，目前使用QQ或微信登录可不输入手机号码：https://www.processon.com/i/5f6c4458637689435fe8f885
 - 腾讯装机部落：https://zjbl.qq.com?invisit_code=1158337409 一个已经快倒闭的装软件赚钱工具。
+
 ### 手机软件
 
 ## 服务器类
@@ -25,3 +26,7 @@
     4808072044
 
 兑换码兑换链接:https://url.oray.com/share/CdFeFcJjFi
+
+## 科学上网类
+
+良心机场：https://jdycloud.xyz/auth/register?code=taFR
