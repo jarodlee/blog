@@ -34,8 +34,6 @@ Debian GNU/Linux web console ：https://ght.ghtxx.cn:9090/
 
 gTLD统计的通用顶级域名报表：https://ntldstats.com/
 
-纽约时报：https://cn.nytimes.com/
-
 微软在线：https://outlook.live.com/
 
 YouTobe：https://www.youtube.com/
@@ -46,6 +44,11 @@ YouTobe：https://www.youtube.com/
 
 Facebook：https://www.facebook.com/
 
+## 国际资讯
+
+Fox News：https://www.foxnews.com/
+
+纽约时报：https://cn.nytimes.com/
 
 ## 精致的网络应用
 
