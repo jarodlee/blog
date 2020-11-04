@@ -94,9 +94,11 @@ g0v计划：http://g0v.asia/
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
 
 ## 电子竞技
-扫雷世界杯：http://www.minesweeper.info/ 注册后[可上传成绩](http://www.minesweeper.info/members/control.php)
+扫雷世界记录：http://www.minesweeper.info/ 注册后[可上传成绩](http://www.minesweeper.info/members/control.php)
 
-扫雷练习赛：https://minesweeper.online/zh/
+扫雷练习赛【港版】：https://minesweeper.online/zh/
+
+扫雷竞赛【国服】：http://saolei.wang/
 
 Steam战网：https://store.steampowered.com/
 
