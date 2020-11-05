@@ -10,15 +10,18 @@
 
 购买的淘客平台：http://thex.ren
 
-机房监控软件prtg:http://aqxs.oicp.net
-
 干海棠学习中心纪念版：http://ght.ghtxx.cn:88
 
 文件交换工具：https://git.aqde.net:89
 
-OpenMediaNAS实验：https://ght.ghtxx.cn:1980/
+黑群晖的1M花生壳WEB服务:http://aqxs.oicp.net
 
-Debian GNU/Linux web console ：https://ght.ghtxx.cn:9090/
+黑群晖的SSL直接浏览：https://ght.ghtxx.cn:1980/
+
+黑群晖的普通浏览：http://ght.ghtxx.cn:8091/
+
+黑群晖的SSL控制台：https://ght.ghtxx.cn:9090/
+
 
 ## 优秀的大厂平台
 
