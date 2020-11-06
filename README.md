@@ -2,13 +2,13 @@
 
 继续尝试gitbook功能，避免同时使用linux和windows更新似乎就没有问题了。
 
-[markdown语法](/books/markdown)、[加强版](https://blog.csdn.net/u014061630/article/details/81359144#5-markdown%E5%B7%A5%E5%85%B7)
+[markdown语法](https://b.ghtxx.cn/books/markdown)、[加强版](https://blog.csdn.net/u014061630/article/details/81359144#5-markdown%E5%B7%A5%E5%85%B7)
 
-[数字化教程](/books)：经过加工的一些资料，以系统化的知识为主。
+[数字化教程](https://b.ghtxx.cn/books)：经过加工的一些资料，以系统化的知识为主。
 
-[天天阅读](/ttyd)：自己每天碎片化的记录
+[天天阅读](https://b.ghtxx.cn/ttyd)：自己每天碎片化的记录
 
-[主要阅读与工作](/link)整理后放在一起了，希望网络能更开放一点吧。
+[主要阅读与工作](https://b.ghtxx.cn/link)整理后放在一起了，希望网络能更开放一点吧。
 
 ------------
 
