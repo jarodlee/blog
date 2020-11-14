@@ -25,7 +25,7 @@
 
 ## 优秀的大厂平台
 
-最强CDN平台：:https://dash.cloudflare.com/ 
+最强CDN平台：:https://dash.cloudflare.com/
 
 苹果数据中心iCloud：https://www.icloud.com/
 
@@ -54,6 +54,8 @@ Fox News：https://www.foxnews.com/
 纽约时报：https://cn.nytimes.com/
 
 ## 精致的网络应用
+
+大陆网站速率监控：https://monitoring.cloudwise.com/monitoring/#/dashboard
 
 全球测速：http://www.speedtest.net/
 
