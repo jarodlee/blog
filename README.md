@@ -6,9 +6,9 @@
 
 [数字化教程](https://b.ghtxx.cn/books)：经过加工的一些资料，以系统化的知识为主。
 
-[天天阅读](https://b.ghtxx.cn/ttyd)：自己每天碎片化的记录
+[天天阅读](https://b.ghtxx.cn/ttyd)：记录自己每天碎片化的记录
 
-[主要阅读与工作](https://b.ghtxx.cn/link)整理后放在一起了，希望网络能更开放一点吧。
+[常用的链接](https://b.ghtxx.cn/link)整理后放在一起了，希望网络能更开放一点吧。
 
 ------------
 
