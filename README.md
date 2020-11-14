@@ -1,5 +1,7 @@
 ﻿# blog
 
+我推荐的儿童编程站点：https://courses.geek-8.com/homepages/lixiaojun
+
 继续尝试gitbook功能，避免同时使用linux和windows更新似乎就没有问题了。
 
 [markdown语法](https://b.ghtxx.cn/books/markdown)、[加强版](https://blog.csdn.net/u014061630/article/details/81359144#5-markdown%E5%B7%A5%E5%85%B7)
