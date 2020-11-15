@@ -61,9 +61,7 @@
 官方网站： http://www.noi.cn
 
 #### 体会
-NOI复赛官方环境，集成了竞赛的编辑与评分软件，基于ubuntu14.04打造，内置源已经过期，需要手动修改。
-
-    配置国内源
+NOI复赛官方环境，集成了竞赛的编辑与评分软件，基于ubuntu14.04打造，内置源已经过期，需要手动修改。 配置国内源的方法参考此链接：https://zhangzj.github.io/2017/03/21/ubnutu-1404-ubuntu-source-list.html
     
 apt源配置文件
 
