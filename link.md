@@ -12,7 +12,7 @@
 
 干海棠学习中心纪念版：http://ght.ghtxx.cn:88
 
-文件交换工具：https://git.aqde.net:89
+文件交换工具：https://m.aqde.net:89
 
 黑群晖的1M花生壳WEB服务:http://aqxs.oicp.net
 
