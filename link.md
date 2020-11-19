@@ -73,7 +73,7 @@ g0v计划：http://g0v.asia/
 
 ## 临时的网络记录
 
-免费小说：https://www.630shu.net/shu/164181/61346240.html
+免费小说：https://www.630shu.net/shu/164181/61376098.html
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
