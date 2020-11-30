@@ -1,6 +1,6 @@
 ﻿# blog
 
-我推荐的儿童编程站点：https://courses.geek-8.com/homepages/lixiaojun
+我推荐的儿童编程站点：https://git.aqde.net
 
 继续尝试gitbook功能，避免同时使用linux和windows更新似乎就没有问题了。
 
