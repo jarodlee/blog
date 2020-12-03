@@ -6,9 +6,9 @@
 
 黑群晖的SSL控制台：https://nas.aqde.net:9090/
 
-黑群晖上的相册:https://nas.aqde.net:1980/photo/
-
 文件交换工具：https://m.aqde.net:89
+
+黑群晖上的相册:https://nas.aqde.net:1980/photo/
 
 小米手机web静态服务：http://ghtxx.oicp.net/
 
