@@ -22,6 +22,8 @@
 
 黑群晖的SSL控制台：https://nas.aqde.net:9090/
 
+黑群晖上的相册:https://nas.aqde.net:1980/photo/
+
 
 ## 优秀的大厂平台
 
