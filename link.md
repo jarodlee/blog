@@ -16,11 +16,11 @@
 
 黑群晖的1M花生壳WEB服务:http://aqxs.oicp.net
 
-黑群晖的SSL直接浏览：https://ght.ghtxx.cn:1980/
+黑群晖的SSL直接浏览：https://nas.aqde.net:1980/
 
-黑群晖的普通浏览：http://ght.ghtxx.cn:8091/
+黑群晖的普通浏览：http://nas.aqde.net:8091/
 
-黑群晖的SSL控制台：https://ght.ghtxx.cn:9090/
+黑群晖的SSL控制台：https://nas.aqde.net:9090/
 
 
 ## 优秀的大厂平台
