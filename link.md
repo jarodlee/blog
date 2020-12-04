@@ -4,6 +4,12 @@
 
 ## 自己搭建的学习平台与成果
 
+黑群晖的SSL控制台：https://nas.aqde.net:9090/
+
+文件交换工具：https://m.aqde.net:89
+
+黑群晖上的相册:https://nas.aqde.net:1980/photo/
+
 小米手机web静态服务：http://ghtxx.oicp.net/
 
 创业记录：http://www.thex.ren
@@ -12,15 +18,11 @@
 
 干海棠学习中心纪念版：http://ght.ghtxx.cn:88
 
-文件交换工具：https://m.aqde.net:89
-
 黑群晖的1M花生壳WEB服务:http://aqxs.oicp.net
 
-黑群晖的SSL直接浏览：https://ght.ghtxx.cn:1980/
+黑群晖的SSL直接浏览：https://nas.aqde.net:1980/
 
-黑群晖的普通浏览：http://ght.ghtxx.cn:8091/
-
-黑群晖的SSL控制台：https://ght.ghtxx.cn:9090/
+黑群晖的普通浏览：http://nas.aqde.net:8091/
 
 
 ## 优秀的大厂平台
