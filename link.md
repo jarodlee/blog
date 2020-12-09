@@ -79,7 +79,7 @@ g0v计划：http://g0v.asia/
 
 [很垃圾的一本小说](https://www.630shu.net/shu/164181/61542390.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743/68878199.html),手机浏览时必须翻墙,看来网络小说这个产业也发展的很不错了,知道微信低门槛.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743/71559346.html),手机浏览时必须翻墙,看来网络小说这个产业也发展的很不错了,知道微信低门槛.
 
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
