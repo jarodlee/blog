@@ -98,6 +98,8 @@ g0v计划：http://g0v.asia/
 
 阿里云：https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=h7a5zesu
 
+腾讯云:https://cloud.tencent.com/
+
 中国教科网CERNET：https://www.edu.cn/
 
 腾讯AI：https://ai.qq.com/
