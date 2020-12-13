@@ -88,6 +88,8 @@ g0v计划：http://g0v.asia/
 
 ## 中国官方网站
 
+微信公众平台:https://mp.weixin.qq.com/
+
 中国专利数据库: http://epub.sipo.gov.cn/sjsm.jsp
 
 国务院国情介绍:http://www.gov.cn/guoqing/index.htm
