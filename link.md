@@ -81,7 +81,6 @@ g0v计划：http://g0v.asia/
 
 [微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),手机浏览时必须翻墙,看来网络小说这个产业也发展的很不错了,知道微信低门槛.终于看完了现存内容.
 
-
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
 电影下载：https://www.ygdy8.com/index.html
@@ -112,6 +111,8 @@ g0v计划：http://g0v.asia/
 
 南海战略态势感知计划：http://www.scspi.org/zh
 
+网易的未成年人保护规则：https://kada.163.com/topics/kada_children_terms/
+
 ## 硬件设备
 
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
@@ -130,3 +131,18 @@ Steam战网：https://store.steampowered.com/
 星际争霸【国服】：https://sc2.blizzard.cn/home
 
 坦克世界【国服】：https://wot.360.cn/
+
+## 编程平台
+广州教科研网的APP在线制作工具：http://app.gzjkw.net
+
+麻省的AI工具：http://appinventor.mit.edu/
+
+pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
+
+网易的儿童版scratch:https://geek.163.com/path/project/fast/create
+
+网易的scratch 3在线版：https://kada.163.com/project/v3/create.htm
+
+网易的pythone 在线版：https://kada.163.com/ide/python.htm
+
+网易卡搭校园：http://school.kada.163.com/
