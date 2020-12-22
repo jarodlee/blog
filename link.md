@@ -77,13 +77,15 @@ g0v计划：http://g0v.asia/
 
 免费小说：
 
-[很垃圾的一本小说](https://www.630shu.net/shu/164181.html#footer),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了.
+[很垃圾的一本小说](https://www.uukanshu.com/b/88054/129258.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了.
 
 [微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),手机浏览时必须翻墙,看来网络小说这个产业也发展的很不错了,知道微信低门槛.终于看完了现存内容.
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
 电影下载：https://www.ygdy8.com/index.html
+
+最近热播剧：https://www.tvdie.com/tvdieplay/60039-2-0.html
 
 ## 中国官方网站
 
