@@ -57,6 +57,10 @@ Fox News：https://www.foxnews.com/
 
 ## 精致的网络应用
 
+快速搭建虚拟网:https://my.zerotier.com/ 
+
+  8056c2e21ca09811
+
 大陆网站速率监控：https://monitoring.cloudwise.com/monitoring/#/dashboard
 
 全球测速：http://www.speedtest.net/
