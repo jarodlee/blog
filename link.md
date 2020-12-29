@@ -87,9 +87,9 @@ g0v计划：http://g0v.asia/
 
 免费小说：
 
-[很垃圾的一本小说](https://www.biquge.com.cn/book/41076/#footer),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5002.
+[很垃圾的一本小说](https://www.biquge.com.cn/book/41076/#footer),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5027.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),1719,看来网络小说这个产业也发展的很不错了.终于看完了现存内容.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),1732,看来网络小说这个产业也发展的很不错了.终于看完了现存内容.
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
