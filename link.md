@@ -143,6 +143,8 @@ Steam战网：https://store.steampowered.com/
 
 坦克世界【国服】：https://wot.360.cn/
 
+王者荣耀:https://pvp.qq.com/ 用中国的山寨浏览器才能正常查看
+
 ## 编程平台
 广州教科研网的APP在线制作工具：http://app.gzjkw.net
 
