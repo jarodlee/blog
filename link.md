@@ -130,7 +130,7 @@ g0v计划：http://g0v.asia/
 
 腾讯机器人：https://taiq.qq.com/
 
-罗技外设官网注册:https://support.logi.com/hc/zh-cn
+罗技外设官网注册:https://support.logi.com/hc/zh-cn 罗技有一个[中国版的独立商城](https://store.logitech.com.cn/)
 
 ## 电子竞技
 扫雷世界记录：http://www.minesweeper.info/ 注册后[可上传成绩](http://www.minesweeper.info/members/control.php)
