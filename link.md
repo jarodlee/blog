@@ -124,6 +124,17 @@ g0v计划：http://g0v.asia/
 
 网易的未成年人保护规则：https://kada.163.com/topics/kada_children_terms/
 
+金数据表单:https://jinshuju.net/home
+
+问卷星考试:https://www.wjx.cn/
+
+### 安庆本地
+
+宜采商城:http://aqggzy.anqing.gov.cn:7001/aqshop/
+
+公共资源交易服务网:http://aqggzy.anqing.gov.cn/
+
+
 ## 硬件设备
 
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
