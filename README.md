@@ -164,9 +164,9 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 
 免费小说：
 
-[很垃圾的一本小说](https://www.xinshuhaige.com/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5212.
+[很垃圾的一本小说](https://www.xinshuhaige.com/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5219.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1816.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1819.
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
