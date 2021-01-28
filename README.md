@@ -2,6 +2,18 @@
 
 既然有这个优秀的平台存在，为什么还要维护一个html版的链接表呢？整理起来一点都不方便，不如直接写在这边来的更快更实用。先来分类一下：
 
+## 临时的网络记录
+
+免费小说：
+
+[很垃圾的一本小说](https://www.xinshuhaige.com/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5226.
+
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1840.
+
+凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
+
+电影下载：https://www.ygdy8.com/index.html
+
 ## 自己搭建的学习平台与成果
 
 黑群晖的SSL控制台：https://nas.aqde.net:9090/
@@ -159,15 +171,3 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 网易的pythone 在线版：https://kada.163.com/ide/python.htm
 
 网易卡搭校园：http://school.kada.163.com/
-
-## 临时的网络记录
-
-免费小说：
-
-[很垃圾的一本小说](https://www.xinshuhaige.com/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5219.
-
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1819.
-
-凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
-
-电影下载：https://www.ygdy8.com/index.html
