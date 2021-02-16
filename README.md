@@ -6,9 +6,11 @@
 
 免费小说：
 
-[很垃圾的一本小说](https://www.xinshuhaige.com/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5226.
+[很垃圾的一本小说](https://www.xinshuhaige.com/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5411.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1840.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1894.
+
+[一个有趣的穿越小说](https://www.xinshuhaige.net/24121/3313928.html),全本的。
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
