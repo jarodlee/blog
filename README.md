@@ -10,7 +10,7 @@
 
 [微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1894.
 
-[一个有趣的穿越小说](https://www.xinshuhaige.net/24121/3313928.html),全本的。
+[一个有趣的穿越小说](https://www.xinshuhaige.net/24121/),全本的。206
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
