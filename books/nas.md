@@ -23,9 +23,9 @@ NAS（Network Attached Storage：网络附属存储）按字面简单说就是�
 
 这里重点保留以下两个图,看懂了就基本知道怎么选了:
 
-![简单的群晖性能选择图](./img/ds-1step.png)
+![简单的群晖性能选择图](./img/ds-1step.jpg)
 
-![标准的群晖型号命名规则](./img/ds-name-ruler.png)
+![标准的群晖型号命名规则](./img/ds-name-ruler.jpg)
 
 ### 优点
 
