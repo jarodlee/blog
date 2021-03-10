@@ -18,17 +18,19 @@
 
 小米手机web静态服务：http://ghtxx.oicp.net/
 
-创业记录：http://www.thex.ren
+redmine: http://nas.aqde.net:30002
 
-购买的淘客平台：http://thex.ren
+~~创业记录：http://www.thex.ren
 
-干海棠学习中心纪念版：http://ght.ghtxx.cn:88
+~~购买的淘客平台：http://thex.ren
+
+~~干海棠学习中心纪念版：http://ght.ghtxx.cn:88~~
 
 黑群晖的1M花生壳WEB服务:http://aqxs.oicp.net
 
 黑群晖的SSL直接浏览：https://nas.aqde.net:1980/
 
-黑群晖的普通浏览：http://nas.aqde.net:8091/
+~~黑群晖的普通浏览：http://nas.aqde.net:8091/
 
 
 ## 优秀的大厂平台
