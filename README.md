@@ -152,6 +152,8 @@ Steam战网：https://store.steampowered.com/
 王者荣耀:https://pvp.qq.com/ 用中国的山寨浏览器才能正常查看
 
 ## 编程平台
+MIT的原版Scratch教学:http://scratch.mit.edu/signup/c214fbcd64db03
+
 广州教科研网的APP在线制作工具：http://app.gzjkw.net
 
 麻省的AI工具：http://appinventor.mit.edu/
@@ -166,7 +168,7 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 
 网易卡搭校园：http://school.kada.163.com/
 
-## 暂封存免费小说：
+## 暂封存免费小说
 
 网络小说其实和短视频一样,追求的都是一种虚幻的短期快感,不值得花费大量时间追更,有些比较不错的完本也只值得在闲来无聊时打发时间而已.
 
