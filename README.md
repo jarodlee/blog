@@ -67,6 +67,10 @@ Fox News：https://www.foxnews.com/
 
 纽约时报：https://cn.nytimes.com/
 
+美股财报：https://longbridge.global/
+
+国股财报：https://www.eastmoney.com/
+
 ## 精致的网络应用
 
 快速搭建虚拟网:https://my.zerotier.com/ 
