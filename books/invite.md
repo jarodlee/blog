@@ -5,6 +5,7 @@
 大部分个人应用都带有介绍朋友使用的功能，在这里一并整合展示
 
 ### PC软件
+- 开源的在线画图工具：https://www.draw.io/
 - 一个纯浏览器就可完整用的流程图、脑图工具，目前使用QQ或微信登录可不输入手机号码：https://www.processon.com/i/5f6c4458637689435fe8f885
 - 腾讯装机部落：https://zjbl.qq.com?invisit_code=1158337409 一个已经快倒闭的装软件赚钱工具。
 
@@ -30,3 +31,5 @@
 ## 科学上网类
 
 良心机场：https://jdycloud.xyz/auth/register?code=taFR
+
+推荐使用：https://v2free.org/auth/register?code=FZXO [此机场提供大量免费节点，赞]
