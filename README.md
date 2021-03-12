@@ -73,6 +73,10 @@ Fox News：https://www.foxnews.com/
 
 ## 精致的网络应用
 
+动态域名直通:https://www.ddnsto.com/app/#/routers
+
+花生壳管理:https://hsk.oray.com/console/manage/
+
 快速搭建虚拟网:https://my.zerotier.com/ 
 
 公共网络:
