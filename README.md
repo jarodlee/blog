@@ -14,9 +14,9 @@
 
 网络小说其实和短视频一样,追求的都是一种虚幻的短期快感,不值得花费大量时间追更,有些比较不错的完本也只值得在闲来无聊时打发时间而已.
 
-[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5607.
+[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5614.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 1998.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2000.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
@@ -81,6 +81,8 @@ Fox News：https://www.foxnews.com/
 国股财报：https://www.eastmoney.com/
 
 ## 精致的网络应用
+
+中国山寨版的chromeOS社区: https://community.fydeos.com/
 
 动态域名直通:https://www.ddnsto.com/app/#/routers
 
