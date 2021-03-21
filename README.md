@@ -155,6 +155,8 @@ g0v计划：http://g0v.asia/
 
 ## 硬件设备
 
+OpenWRT支持的硬件列表:https://openwrt.org/toh/start
+
 锐捷EG2000CE路由器：https://www.ruijie.com.cn/cp/wg-xwgl/eg2000/
 
 腾讯机器人：https://taiq.qq.com/
