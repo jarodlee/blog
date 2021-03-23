@@ -179,7 +179,7 @@ Steam战网：https://store.steampowered.com/
 
 坦克世界【国服】：https://wot.360.cn/
 
-王者荣耀:https://pvp.qq.com/ 用中国的山寨浏览器才能正常查看
+王者荣耀:https://pvp.qq.com/ 用中国的2345浏览器才能正常查看
 
 ## 编程平台
 MIT的原版Scratch教学:http://scratch.mit.edu/signup/c214fbcd64db03
