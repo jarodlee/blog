@@ -82,6 +82,8 @@ Fox News：https://www.foxnews.com/
 
 ## 精致的网络应用
 
+在线系统体验:https://distrotest.net/
+
 腾讯搞了一个网络检测的工具:https://ping.huatuo.qq.com/
 
 中国山寨版的chromeOS社区: https://community.fydeos.com/
