@@ -82,6 +82,8 @@ Fox News：https://www.foxnews.com/
 
 ## 精致的网络应用
 
+中国大陆网络测速:http://m.speedtest.cn/
+
 最全的各种发行版Linux系统在线体验:https://distrotest.net/
 
 腾讯搞了一个网络检测的工具:https://ping.huatuo.qq.com/
