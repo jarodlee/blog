@@ -35,7 +35,7 @@
 
 ~~购买的淘客平台：http://thex.ren~~
 
-干海棠学习中心纪念版：https://aqghtxx.ddnsto.com/
+GHTxx软路由管理：https://aqghtxx.ddnsto.com/
 
 GPD服务管理:https://gpdhome.ddnsto.com/
 
