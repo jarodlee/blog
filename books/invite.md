@@ -31,6 +31,8 @@
 
 ## 科学上网类
 
-良心机场：https://jdycloud.xyz/auth/register?code=taFR
+良心机场：https://jdycloud.xyz/auth/register?code=taFR 最便宜的,9.9一个月
 
 推荐使用：https://v2free.org/auth/register?code=FZXO [此机场提供大量免费节点，赞]
+
+速度更快:https://fastlink.ws/auth/register?code=Y02B 小路由卖家推荐的,有点贵,一个月19.9
