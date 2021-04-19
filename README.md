@@ -98,6 +98,8 @@ Fox News：https://www.foxnews.com/
 国股财报：https://www.eastmoney.com/
 
 ## 精致的网络应用
+BTC在线监控：https://www.nicehash.com/my/dashboard
+
 国际网络测速平台：https://www.speedtest.net/
 
 中国大陆网络测速:http://m.speedtest.cn/
