@@ -18,9 +18,9 @@
 
 打算看一下网络风评很好的《诛仙》：https://www.xinshuhaige.org/44830/
 
-[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5810.
+[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5845.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2088.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2102.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
@@ -51,6 +51,17 @@ GPD服务管理:https://gpdhome.ddnsto.com/
 
 ~~黑群晖的普通浏览：http://nas.aqde.net:8091/~~
 
+### 内网主要设备管理
+
+主路由：http://192.168.1.1/cgi-bin/luci/admin/status/overview
+
+主wifi:http://192.168.1.111/cgi-bin/luci/admin/status/overview
+
+隔层wifi:http://192.168.1.110/
+
+蜗牛NAS DSM 6.2.3-25426：http://192.168.1.8:5000/
+
+黑群晖DSM 5.2-5967 ：http://192.168.1.6:8091/
 
 ## 优秀的大厂平台
 
