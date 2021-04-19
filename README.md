@@ -10,6 +10,8 @@
 
 ## 临时的网络记录
 
+等待著名动画的第2季开播了：[B站在此](https://search.bilibili.com/all?keyword=%E7%88%B1%EF%BC%8C%E6%AD%BB%E4%BA%A1%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA&from_source=web_search)
+
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
 电影下载：https://www.ygdy8.com/index.html
