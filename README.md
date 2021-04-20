@@ -26,34 +26,7 @@
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
-
-## 自己搭建的学习平台与成果
-
-NNAS上的自建gitlab:https://aqgitlab.ddnsto.com/
-
-黑群晖的SSL控制台：https://nas.aqde.net:9090/
-
-文件交换工具：https://m.aqde.net:89
-
-黑群晖上的相册:https://nas.aqde.net:1980/photo/
-
-~~redmine: http://nas.aqde.net:30002~~
-
-~~创业记录：http://www.thex.ren~~
-
-~~购买的淘客平台：http://thex.ren~~
-
-GHTxx软路由管理：https://aqghtxx.ddnsto.com/
-
-GPD服务管理:https://gpdhome.ddnsto.com/
-
-~~黑群晖的1M花生壳WEB服务:http://aqxs.oicp.net~~
-
-黑群晖的SSL直接浏览：https://nas.aqde.net:1980/
-
-~~黑群晖的普通浏览：http://nas.aqde.net:8091/~~
-
-### 内网主要设备管理
+## 内网主要设备管理
 
 主路由：http://192.168.1.1/cgi-bin/luci/admin/status/overview
 
@@ -64,6 +37,22 @@ GPD服务管理:https://gpdhome.ddnsto.com/
 蜗牛NAS DSM 6.2.3-25426：http://192.168.1.8:5000/
 
 黑群晖DSM 5.2-5967 ：http://192.168.1.6:8091/
+
+## 自己搭建的学习平台与成果
+
+NNAS上的自建gitlab:https://aqgitlab.ddnsto.com/
+
+黑群晖的SSL控制台：https://nas.aqde.net:9090/
+
+黑群晖上的相册:https://nas.aqde.net:1980/photo/
+
+黑群晖的SSL直接浏览：https://nas.aqde.net:1980/
+
+文件交换工具：https://m.aqde.net:89
+
+GHTxx软路由管理：https://aqghtxx.ddnsto.com/
+
+GPD服务管理:https://gpdhome.ddnsto.com/
 
 ## 优秀的大厂平台
 
@@ -100,6 +89,9 @@ Fox News：https://www.foxnews.com/
 国股财报：https://www.eastmoney.com/
 
 ## 精致的网络应用
+
+网游变单机：https://www.iopq.net/
+
 BTC在线监控：https://www.nicehash.com/my/dashboard
 
 国际网络测速平台：https://www.speedtest.net/
