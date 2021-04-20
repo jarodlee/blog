@@ -90,7 +90,7 @@ Fox News：https://www.foxnews.com/
 
 ## 精致的网络应用
 
-网游变单机：https://www.iopq.net/
+网游变单机：[访问藏宝湾网游单机站](https://www.iopq.net/?fromuser=jarodlee)
 
 BTC在线监控：https://www.nicehash.com/my/dashboard
 
