@@ -1,4 +1,4 @@
-在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com 
+在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com
 
 # 常用的链接整理
 
@@ -38,7 +38,11 @@
 
 黑群晖DSM 5.2-5967 ：http://192.168.1.6:8091/
 
+miniOP:http://192.168.1.254/
+
 ## 自己搭建的学习平台与成果
+
+小型GL-inet远程:http://miniop.freeddns.org
 
 NAS上的GitLab：http://x.aqde.net:30000
 
@@ -110,7 +114,7 @@ BTC在线监控：https://www.nicehash.com/my/dashboard
 
 花生壳管理:https://hsk.oray.com/console/manage/
 
-快速搭建虚拟网:https://my.zerotier.com/ 
+快速搭建虚拟网:https://my.zerotier.com/
 
 公共网络:
 
@@ -119,7 +123,7 @@ BTC在线监控：https://www.nicehash.com/my/dashboard
 编程网络:
 
     565799d8f6ca2e34
-       
+
 大陆网站速率监控：https://monitoring.cloudwise.com/monitoring/#/dashboard
 
 全球测速：http://www.speedtest.net/
