@@ -20,9 +20,9 @@
 
 打算看一下网络风评很好的《诛仙》：https://www.xinshuhaige.org/44830/
 
-[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5845.
+[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5866.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2102.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2109.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
@@ -39,6 +39,8 @@
 黑群晖DSM 5.2-5967 ：http://192.168.1.6:8091/
 
 ## 自己搭建的学习平台与成果
+
+NAS上的GitLab：http://x.aqde.net:30000
 
 NNAS上的自建gitlab:https://aqgitlab.ddnsto.com/
 
