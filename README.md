@@ -247,8 +247,10 @@ PI币SDK开发：https://developers.minepi.com/sandbox/ArMHRh5yRa4N2N5Hl3uT5WHyp
 
 BTC矿池代码：
 
-        3Ntgr2pMam4bvg9PEnm4PTkD2ad1FAzLuX
+    3Ntgr2pMam4bvg9PEnm4PTkD2ad1FAzLuX
         
 ETH矿池代码【测试】：
 
-        0x9106abE94d7271C9838cF457d15b7E80D7a9d583
+    0x9106abE94d7271C9838cF457d15b7E80D7a9d583
+    
+国内还有一个minerOS：https://www.mineros.cn/index.php/zh/
