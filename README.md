@@ -233,3 +233,22 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 ## 暂封存免费小说
 
 我的自制力目前还做不到封存不看...
+
+## 区块链应用
+PI币SDK开发：https://developers.minepi.com/sandbox/ArMHRh5yRa4N2N5Hl3uT5WHypqHfCx9qmlP2L9nm30FY
+
+最简单的挖矿平台【矿池】：https://www.nicehash.com/my/dashboard 唯一的限制就是于最小提款金额为 0.001 BTC，目前（2021-04）汇率约为50美元
+
+相应的国际数字钱包服务：https://payeer.com/ 不像国内的某宝那样要求实名，只要邮件验证，一天普通用户限额为999美元,要超过此限制需要使用id card、护照或驾照之一，外加地址证明文件拍照上传进行验证才行。
+
+下载开始挖矿的软件：https://github.com/nicehash/NiceHashQuickMiner/releases
+
+安装后要关闭大多数的杀毒软件，或将安装路径加入信任列表，因为目前所有的杀毒软件都会把挖矿软件当做不安全的应用。
+
+BTC矿池代码：
+
+        3Ntgr2pMam4bvg9PEnm4PTkD2ad1FAzLuX
+        
+ETH矿池代码【测试】：
+
+        0x9106abE94d7271C9838cF457d15b7E80D7a9d583
