@@ -20,9 +20,9 @@
 
 打算看一下网络风评很好的《诛仙》：https://www.xinshuhaige.org/44830/
 
-[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5922.
+[很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 5961.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2142.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2147.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
@@ -95,6 +95,8 @@ Fox News：https://www.foxnews.com/
 国股财报：https://www.eastmoney.com/
 
 ## 精致的网络应用
+
+航天器追踪:https://orbit.ing-now.com/satellite/48275/2021-035b/cz-5b/
 
 网游变单机：[访问藏宝湾网游单机站](https://www.iopq.net/?fromuser=jarodlee)
 
