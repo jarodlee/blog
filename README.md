@@ -234,9 +234,9 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 
 [很垃圾的一本小说](https://www.xinshuhaige.net/53535/),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 6059.
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2190.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2191.
 
-又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/60808946.html
+又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 122
 
 ## 区块链应用
 PI币SDK开发：https://developers.minepi.com/sandbox/ArMHRh5yRa4N2N5Hl3uT5WHypqHfCx9qmlP2L9nm30FY
