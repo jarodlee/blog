@@ -238,7 +238,7 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 
 [微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2204.
 
-又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 130.
+又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 132.
 
 ## 区块链应用
 PI币SDK开发：https://developers.minepi.com/sandbox/ArMHRh5yRa4N2N5Hl3uT5WHypqHfCx9qmlP2L9nm30FY
