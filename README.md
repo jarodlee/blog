@@ -264,10 +264,17 @@ ETH矿池代码【测试】：
 国内还有一个minerOS：https://www.mineros.cn/index.php/zh/
 
 安全低调的交易平台：https://waves.exchange/
+
 ledger冷钱包：https://www.ledger.com/
+
 Trezor冷钱包：https://trezor.io/
+
 Electrum：https://electrum.org
+
 Copay：https://apps.apple.com/au/app/copay-b...
+
 Blockchain：https://www.blockchain.com/wallet
+
 Trust ：https://trustwallet.com
+
 Exchange官网：https://waves.exchange/
