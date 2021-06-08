@@ -243,6 +243,9 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 160.
 
 ## 区块链应用
+
+一个区块的浏览工具： https://explorer.cxcblock.com/
+
 PI币SDK开发：https://developers.minepi.com/sandbox/ArMHRh5yRa4N2N5Hl3uT5WHypqHfCx9qmlP2L9nm30FY
 
 最简单的挖矿平台【矿池】：https://www.nicehash.com/my/dashboard 唯一的限制就是于最小提款金额为 0.001 BTC，目前（2021-04）汇率约为50美元
