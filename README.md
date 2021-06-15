@@ -10,6 +10,8 @@
 
 ## 临时的网络记录
 
+堡塔免费组队活动，用APP就能管理服务器，组队可送3年APP插件，不拿白不拿，现在就来组队吧。https://www.bt.cn/freegroup?group_id=f91d923e
+
 EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/index.html
 
 等待著名动画的第2季开播了：[B站在此](https://search.bilibili.com/all?keyword=%E7%88%B1%EF%BC%8C%E6%AD%BB%E4%BA%A1%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA&from_source=web_search)
