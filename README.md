@@ -24,9 +24,9 @@ EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/
 
 ## 内网主要设备管理
 
-主路由：http://192.168.1.1/cgi-bin/luci/admin/status/overview
+主路由：http://192.168.1.1/
 
-主wifi:http://192.168.1.111/cgi-bin/luci/admin/status/overview
+主wifi:http://192.168.1.111/
 
 隔层wifi:http://192.168.1.110/
 
