@@ -18,6 +18,16 @@ EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/
 
 电影下载：https://www.ygdy8.com/index.html
 
+网络小说其实和短视频一样,追求的都是一种虚幻的短期快感,不值得花费大量时间追更,有些比较不错的完本也只值得在闲来无聊时打发时间而已.
+
+打算看一下网络风评很好的《诛仙》：https://www.xinshuhaige.org/44830/
+
+[很垃圾的一本小说](https://www.xinshuhaige.org/53535/3454734.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 .
+
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2255.
+
+又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 177.
+
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
 ## 内网主要设备管理
@@ -233,16 +243,6 @@ pygame的官方指南：https://www.pygame.org/wiki/GettingStarted
 ## 暂封存免费小说
 
 我的自制力目前还做不到封存不看...
-
-网络小说其实和短视频一样,追求的都是一种虚幻的短期快感,不值得花费大量时间追更,有些比较不错的完本也只值得在闲来无聊时打发时间而已.
-
-打算看一下网络风评很好的《诛仙》：https://www.xinshuhaige.org/44830/
-
-[很垃圾的一本小说](https://www.xinshuhaige.org/53535/3454629.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 .
-
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2252.
-
-又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 175.
 
 ## 区块链应用
 
