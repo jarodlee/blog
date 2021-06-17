@@ -46,6 +46,12 @@ miniOP:http://192.168.1.254/
 
 ## 自己搭建的学习平台与成果
 
+软路由的百度盘：http://192.168.1.1:5299/
+
+软路由的KOD：http://192.168.1.1:8080
+
+地云科技的早期网站：https://b.aqde.net:8/
+
 DELL-bt面板：http://x.aqde.net:65534/
 
 小型GL-inet远程:http://miniop.freeddns.org
