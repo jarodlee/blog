@@ -22,11 +22,11 @@ EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/
 
 打算看一下网络风评很好的《诛仙》：https://www.xinshuhaige.org/44830/
 
-[很垃圾的一本小说](https://www.xinshuhaige.org/53535/3454734.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 .
+[很垃圾的一本小说](https://www.xinshuhaige.org/53535/3454849.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 .
 
 [微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2258.
 
-又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 178.
+又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 179.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
