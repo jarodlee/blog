@@ -52,7 +52,7 @@ miniOP:http://192.168.1.254/
 
 地云科技的早期网站：https://b.aqde.net:8/
 
-DELL-bt面板：http://d.aqde.net:65534/
+DELL-bt面板：https://d.aqde.net:65534/
 
 小型GL-inet远程:http://miniop.freeddns.org
 
