@@ -12,7 +12,7 @@
 
 EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/index.html
 
-等待著名动画的第2季开播了：[B站在此](https://search.bilibili.com/all?keyword=%E7%88%B1%EF%BC%8C%E6%AD%BB%E4%BA%A1%E5%92%8C%E6%9C%BA%E5%99%A8%E4%BA%BA&from_source=web_search)
+B站的纪录片排行榜：https://www.bilibili.com/v/popular/rank/documentary 看上去还是很不错的。
 
 凡人动漫：https://www.bilibili.com/bangumi/media/md28223043/
 
@@ -24,9 +24,9 @@ EPIC家的虚幻引擎官方指导:https://docs.unrealengine.com/zh-CN/WhatsNew/
 
 [很垃圾的一本小说](https://www.xinshuhaige.org/53535/3455018.html),也看了很久,模仿凡人的狗尾续貂.因为看了不少时间,反而丢不下了 .
 
-[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2264.
+[微信广告一个风水小说](https://www.lanyuejiaoyu.com/xs/84536743.html),看来网络小说这个产业也发展的很不错了. 2267.
 
-又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 182.
+又一本好玩的风水小说：https://www.xxqb5200.com/xiaoshuo/42/42837/ 184.
 
 [一个有趣也有点思想的穿越小说](https://www.xinshuhaige.net/24121/),全本的。已经看完!非常优秀的借穿越写出作者理想国的小说.
 
