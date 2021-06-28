@@ -2,7 +2,7 @@
 
 # 常用的链接整理
 
-我推荐大家使用的软件与资源都整理在这里了：https://b.ghtxx.cn/books/invite
+我推荐大家使用的软件与资源都整理在这里了：https://g.aqde.net/books/invite
 
 既然有这个优秀的平台存在，为什么还要维护一个html版的链接表呢？整理起来一点都不方便，不如直接写在这边来的更快更实用。
 
@@ -203,8 +203,11 @@ OpenWRT支持的硬件列表:https://openwrt.org/toh/start
 罗技外设官网注册:https://support.logi.com/hc/zh-cn 罗技有一个[中国版的独立商城](https://store.logitech.com.cn/)
 
 ## 电子竞技
+在线围棋比赛网站：https://home.yikeweiqi.com/
 
-一个在线的围棋练习网站:https://www.cosumi.net/zh/
+少儿围棋学习网站：https://kaoshi.yikeweiqi.com/
+
+另一个在线的围棋练习网站:https://www.cosumi.net/zh/
 
 扫雷世界记录：http://www.minesweeper.info/ 注册后[可上传成绩](http://www.minesweeper.info/members/control.php)
 
