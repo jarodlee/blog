@@ -15,6 +15,8 @@ GPD Pocket笔记本：https://valid.x86.fr/79fidr
 
 gq班班通电脑：https://valid.x86.fr/1k4afy
 
+Acer笔记本：https://valid.x86.fr/cmgzcs
+
 ## android设备
 
 mix3手机：https://valid.x86.fr/a/tvf4b6
