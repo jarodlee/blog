@@ -4,6 +4,8 @@
 
 不过cpu-z只支持windows和android，所以我更喜欢的linux和苹果就没有列入了。
 
+## 软件下载
+
 原版的cpu-z下载：https://www.cpuid.com/softwares/cpu-z.html
 
 但是有时候国内下载太慢，所以我做了一个镜像：[windows中文版](https://nas.aqde.net:9090/fbsharing/DP9R1tNj)、[安卓版](https://nas.aqde.net:9090/fbsharing/ErAI4Z9y)
@@ -20,6 +22,8 @@ GPD Pocket笔记本：https://valid.x86.fr/79fidr
 gq班班通电脑：https://valid.x86.fr/1k4afy
 
 Acer笔记本：https://valid.x86.fr/cmgzcs
+
+Dell的Fedora:因为软件不支持linux，只好放[官网的说明书](https://i.dell.com/sites/csdocuments/Business_large-Business_merchandizing_Documents/zh/cn/OptiPlex_3046_Technical_Spec_Sheet_ZH_CN_HR_yh_V3.pdf)了。
 
 ## android设备
 
