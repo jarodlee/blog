@@ -1,5 +1,7 @@
 在国内使用互联网时请使用微软的搜索引擎：https://www.bing.com
 
+![面向未来，春暖花开。](./ttyd/2021/m.png)
+
 # 常用的链接整理
 
 我推荐大家使用的软件与资源都整理在这里了：https://g.aqde.net/books/invite
