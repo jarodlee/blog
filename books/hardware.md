@@ -5,9 +5,18 @@
 不过cpu-z只支持windows和android，所以我更喜欢的linux和苹果就没有列入了。
 
 ## windows设备
+主力计算机：https://valid.x86.fr/zn8v04
+
+机房教师机：https://valid.x86.fr/5au4dk
+
+机房学生机：https://valid.x86.fr/rn7m6d
+
+GPD Pocket笔记本：https://valid.x86.fr/79fidr
+
+gq班班通电脑：https://valid.x86.fr/1k4afy
 
 ## android设备
 
-mix3手机：
+mix3手机：https://valid.x86.fr/a/tvf4b6
 
-小米平板4：
+小米平板4：https://valid.x86.fr/a/7wsjst
