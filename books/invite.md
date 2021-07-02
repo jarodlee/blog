@@ -40,8 +40,8 @@
 
 ## 科学上网类
 
-良心机场：https://jdycloud.xyz/auth/register?code=taFR [最便宜的,9.9一个月]
-
 推荐使用：https://v2free.org/auth/register?code=FZXO [此机场提供大量免费节点，不过还是建议购买使用，免费的较慢]
 
 再推荐一个备用的：https://paofu.cloud/auth/register?code=IqGS [15元一个月，50G流量，好在比较稳定。]
+
+低价低质的机场：https://jdycloud.xyz/auth/register?code=taFR [最便宜的,9.9一个月，平时能用，特殊时期基本报废]
