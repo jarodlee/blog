@@ -8,7 +8,7 @@
 
 原版的cpu-z下载：https://www.cpuid.com/softwares/cpu-z.html
 
-但是有时候国内下载太慢，所以我做了一个镜像：[windows中文版](https://nas.aqde.net:9090/fbsharing/gS4DXc16)、[安卓版](https://nas.aqde.net:9090/fbsharing/48BbLfRP)
+但是有时候国内下载太慢，所以我做了一个镜像：[windows中文版](https://nas.aqde.net:9090/fbsharing/gS4DXc16)、[安卓版](http://nas.aqde.net:8091/fbsharing/V4xfz4az)
 
 ## windows设备
 主力计算机：https://valid.x86.fr/zn8v04
