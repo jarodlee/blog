@@ -4,7 +4,7 @@
 
 # 常用的链接整理
 
-教育版的github社区：https://education.github.community/
+教育版github：https://education.github.com/
 
 我推荐大家使用的软件与资源都整理在这里了：https://g.aqde.net/books/invite
 
