@@ -4,6 +4,8 @@
 
 # 常用的链接整理
 
+教育版的github社区：https://education.github.community/
+
 我推荐大家使用的软件与资源都整理在这里了：https://g.aqde.net/books/invite
 
 既然有这个优秀的平台存在，为什么还要维护一个html版的链接表呢？整理起来一点都不方便，不如直接写在这边来的更快更实用。
