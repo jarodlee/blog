@@ -3,7 +3,7 @@
 ## 面板软件的安装
 
 ```text
-wget http://amh.sh/amh.sh && bash amh.sh acc 914 
+wget http://amh.sh/amh.sh && bash amh.sh acc 914
 ```
 
 在登录后执行上面的命令就可以得到一个可以通过浏览器配置linux的面板,用IP:8888就可以访问,安装完成时也会有相应的用户名与密码提示.

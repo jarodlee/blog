@@ -137,7 +137,7 @@ DirectX 显卡：Intel(R) HD Graphics 530
 
 主 VRAM：111 MB
 
-支持的 MSAA 模式：2x 4x 8x 16x 
+支持的 MSAA 模式：2x 4x 8x 16x
 ```
 
 ### 声卡：

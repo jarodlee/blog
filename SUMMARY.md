@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* [ttyd](ttyd/README.md)
+* [天天阅读](ttyd/README.md)
   * [2018](ttyd/2018/README.md)
     * [10月的记录](ttyd/2018/10.md)
     * [09月的记录](ttyd/2018/09.md)
@@ -27,7 +27,7 @@
     * [03月](ttyd/2021/03.md)
     * [02月](ttyd/2021/02.md)
     * [01月](ttyd/2021/01.md)
-* [books](books/README.md)
+* [主题分享](books/README.md)
   * [记录常用的端口转发](books/port-list.md)
   * [安徽小学信息技术教材2018版第4单元第8课](books/ahjiaocai20180408.md)
   * [扫雷的入门教学](books/minesweeper.md)
