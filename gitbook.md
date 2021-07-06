@@ -2,7 +2,7 @@
 
 gitbook不能使用CDN,原因不明
 
-我推荐的儿童编程站点：https://git.aqde.net
+我推荐的儿童编程站点：[https://git.aqde.net](https://git.aqde.net)
 
 继续尝试gitbook功能，避免同时使用linux和windows更新似乎就没有问题了。
 
@@ -11,8 +11,6 @@ gitbook不能使用CDN,原因不明
 [数字化教程](https://b.ghtxx.cn/books)：经过加工的一些资料，以系统化的知识为主。
 
 [天天阅读](https://b.ghtxx.cn/ttyd)：记录自己每天碎片化的记录
-
-------------
 
 retry jekyll blog
 
@@ -23,3 +21,4 @@ retry jekyll blog
 [bing检索](https://www.bing.com/search?form=MOZCON&pc=MOZI&q=Jekyll)
 
 [博客参考](https://www.cnblogs.com/laughitover/p/9069219.html)
+

@@ -32,7 +32,7 @@ Android：每月下旬会结算上一个月来自Android的可结算收入，来
 
 iOS：平台会配合苹果公司的结算日历（见下图），延迟三个月进行结算，例如，2019.12.29-2020.2.1的收入，会在4月份结算给公众号。据苹果公司规定，其渠道成本约为原始收入的30%。
 
-![apple](./img/pay_from_apple.png)
+![apple](../.gitbook/assets/pay_from_apple.png)
 
 结算完成后，归属于公众号的收入将自动汇入你开通时填写的银行账户。
 
@@ -90,5 +90,5 @@ iOS：平台会配合苹果公司的结算日历（见下图），延迟三个�
 
 ## 付费功能对比图
 
-![&#x5FAE;&#x4FE1;&#x4E2D;&#x7684;&#x6548;&#x679C;](./img/wechat_pay_1.png)
+![&#x5FAE;&#x4FE1;&#x4E2D;&#x7684;&#x6548;&#x679C;](../.gitbook/assets/wechat_pay_1.png)
 

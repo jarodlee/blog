@@ -6,28 +6,29 @@
 
 ## 软件下载
 
-原版的cpu-z下载：https://www.cpuid.com/softwares/cpu-z.html
+原版的cpu-z下载：[https://www.cpuid.com/softwares/cpu-z.html](https://www.cpuid.com/softwares/cpu-z.html)
 
 但是有时候国内下载太慢，所以我做了一个镜像：[windows中文版](https://nas.aqde.net:9090/fbsharing/gS4DXc16)、[安卓版](https://nas.aqde.net:9090/fbsharing/V4xfz4az)
 
 ## windows设备
-主力计算机：https://valid.x86.fr/zn8v04
 
-机房教师机：https://valid.x86.fr/5au4dk
+主力计算机：[https://valid.x86.fr/zn8v04](https://valid.x86.fr/zn8v04)
 
-机房学生机：https://valid.x86.fr/rn7m6d
+机房教师机：[https://valid.x86.fr/5au4dk](https://valid.x86.fr/5au4dk)
 
-GPD Pocket笔记本：https://valid.x86.fr/79fidr
+机房学生机：[https://valid.x86.fr/rn7m6d](https://valid.x86.fr/rn7m6d)
 
-gq班班通电脑：https://valid.x86.fr/1k4afy
+GPD Pocket笔记本：[https://valid.x86.fr/79fidr](https://valid.x86.fr/79fidr)
 
-Acer笔记本：https://valid.x86.fr/cmgzcs
+gq班班通电脑：[https://valid.x86.fr/1k4afy](https://valid.x86.fr/1k4afy)
+
+Acer笔记本：[https://valid.x86.fr/cmgzcs](https://valid.x86.fr/cmgzcs)
 
 Dell的Fedora:因为软件不支持linux，只好放[官网的说明书](https://i.dell.com/sites/csdocuments/Business_large-Business_merchandizing_Documents/zh/cn/OptiPlex_3046_Technical_Spec_Sheet_ZH_CN_HR_yh_V3.pdf)了。
 
 ## android设备
 
-mix3手机：https://valid.x86.fr/a/tvf4b6
+mix3手机：[https://valid.x86.fr/a/tvf4b6](https://valid.x86.fr/a/tvf4b6)
 
-小米平板4：https://valid.x86.fr/a/7wsjst
+小米平板4：[https://valid.x86.fr/a/7wsjst](https://valid.x86.fr/a/7wsjst)
 
