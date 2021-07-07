@@ -6,6 +6,8 @@
 
 ## 常用的链接整理
 
+何不使用一下国内最大的网文写作平台：https://write.qq.com/portal/dashboard
+
 教育版github：[https://education.github.com/](https://education.github.com/)
 
 我推荐大家使用的软件与资源都整理在这里了：[https://g.aqde.net/books/invite](https://g.aqde.net/books/invite)
@@ -28,7 +30,7 @@ B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary
 
 ### 内网主要设备管理
 
-hype-V的centos8管理:http://172.20.227.88:8888/anqing/
+hype-V的centos8管理:http://172.20.227.88:8888/
 
 主路由：[http://192.168.1.1/](http://192.168.1.1/)
 
