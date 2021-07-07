@@ -6,8 +6,6 @@
 
 ## 常用的链接整理
 
-何不使用一下国内最大的网文写作平台：https://write.qq.com/portal/dashboard
-
 教育版github：[https://education.github.com/](https://education.github.com/)
 
 我推荐大家使用的软件与资源都整理在这里了：[https://g.aqde.net/books/invite](https://g.aqde.net/books/invite)
@@ -159,6 +157,8 @@ g0v计划：[http://g0v.asia/](http://g0v.asia/)
 台湾数字化vTaiWan：[https://vtaiwan.tw/](https://vtaiwan.tw/)
 
 ### 中国官方网站
+
+阅文写作平台：https://write.qq.com/portal/dashboard
 
 安徽入学管理：[http://ahrx.ahjygl.gov.cn](http://ahrx.ahjygl.gov.cn)
 
