@@ -28,6 +28,8 @@ B站的纪录片排行榜：[https://www.bilibili.com/v/popular/rank/documentary
 
 ### 内网主要设备管理
 
+hype-V的centos8管理:http://172.20.227.88:8888/
+
 主路由：[http://192.168.1.1/](http://192.168.1.1/)
 
 主wifi:[http://192.168.1.111/](http://192.168.1.111/)
