@@ -11,3 +11,9 @@
 那么按照提示, 使用
 
         systemctl set-default multi-user.target
+
+用这种方法仍然可以使用
+
+        startx
+
+命令启动图形界面。
