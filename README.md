@@ -52,7 +52,7 @@ DELL-bt面板：[https://d.aqde.net:65534/](https://d.aqde.net:65534/)
 
 小型GL-inet远程:[http://miniop.freeddns.org](http://miniop.freeddns.org)
 
-NAS上的GitLab：[http://x.aqde.net:30000](http://x.aqde.net:30000)
+NAS上的GitLab：[http://nas.aqde.net:30000](http://nas.aqde.net:30000)
 
 NNAS上的自建gitlab:[https://aqgitlab.ddnsto.com/](https://aqgitlab.ddnsto.com/)
 
@@ -65,8 +65,6 @@ NNAS上的自建gitlab:[https://aqgitlab.ddnsto.com/](https://aqgitlab.ddnsto.co
 文件交换工具：[https://m.aqde.net:89](https://m.aqde.net:89)
 
 GHTxx软路由管理：[https://aqghtxx.ddnsto.com/](https://aqghtxx.ddnsto.com/)
-
-GPD服务管理:[https://gpdhome.ddnsto.com/](https://gpdhome.ddnsto.com/)
 
 ### 优秀的大厂平台
 
