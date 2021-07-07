@@ -316,3 +316,12 @@ Trust ：[https://trustwallet.com](https://trustwallet.com)
 
 Exchange官网：[https://waves.exchange/](https://waves.exchange/)
 
+## 苹果相关
+
+### 限免软件列表
+
+狗饭：https://gofans.cn/ 带有1年的价格表
+
+应用墙： https://appwall.today/ 支持美区
+
+广告有点多的：https://mergeek.com/free/apps 不过内容也丰富些。
