@@ -29,7 +29,6 @@
     * [08月的记录](ttyd/2018/08.md)
 * [主题分享](books/README.md)
   * [记录常用的端口转发](books/port-list.md)
-  * [安徽小学信息技术教材2018版第4单元第8课](books/ahjiaocai20180408.md)
   * [扫雷的入门教学](books/minesweeper.md)
   * [在国内怎么选择合适的手机](books/i4phone.md)
   * [nas存储方案对比](books/nas.md)
@@ -50,5 +49,6 @@
   * [记录一下操作系统的使用感受](books/os.md)
   * [教育部下文的相关竞赛信息](books/edu-jinsai.md)
   * [全国青少年信息学奥林匹克竞赛系列活动简介](books/program-battle.md)
+  * [安徽小学信息技术教材2018版第4单元第8课](books/ahjiaocai20180408.md)
 * [blog](gitbook.md)
 
