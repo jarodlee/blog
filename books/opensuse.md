@@ -7,6 +7,7 @@ opensuse官方源国内访问有问题，只好换成了科大的源：
 
         https://mirrors.ustc.edu.cn/opensuse/tumbleweed/repo/oss/
 
+可参考官方的一个[文档说明](https://zh.opensuse.org/SDB:%E6%B7%BB%E5%8A%A0%E8%BD%AF%E4%BB%B6%E6%BA%90#.E6.B7.BB.E5.8A.A0.E9.95.9C.E5.83.8F.E6.BA.90)
 
 ## 系统软件安装方法
 
