@@ -54,3 +54,13 @@ LSB是linux基本包的缩写，有时候定制安装会没有选上，这就要
 
 ## 外观
 kde是最好看的，有点儿苹果的感觉；gnome跟ubuntu差不多;xfce是最简洁的，早期linux的感觉。
+
+先安装了gnome的时候也是可以再安装kde的，执行这个命令：
+
+  zypper install -t pattern kde kde_plasma
+
+不过两个窗口都使用似乎稳定性会下降，当然，也可能是因为我在KDE里面安装了太多图标包和窗口动画的原因。最重要的还有一个问题就是在GNOME中安装的ATOM到了KDE里面就无法启动了，原因不明。
+
+官方的建议在[这里](https://zh.opensuse.org/SDB:KDE_%E5%AE%89%E8%A3%85)
+
+两种窗口都存在的时候，登录时选择的上一个会被记为默认。
