@@ -57,7 +57,7 @@ kde是最好看的，有点儿苹果的感觉；gnome跟ubuntu差不多;xfce是�
 
 先安装了gnome的时候也是可以再安装kde的，执行这个命令：
 
-  zypper install -t pattern kde kde_plasma
+    zypper install -t pattern kde kde_plasma
 
 不过两个窗口都使用似乎稳定性会下降，当然，也可能是因为我在KDE里面安装了太多图标包和窗口动画的原因。最重要的还有一个问题就是在GNOME中安装的ATOM到了KDE里面就无法启动了，原因不明。
 
