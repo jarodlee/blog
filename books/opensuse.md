@@ -47,4 +47,7 @@ LSB是linux基本包的缩写，有时候定制安装会没有选上，这就要
 
         systemctl enable sshd
 
-参考：https://www.cyberithub.com/how-to-start-and-enable-sshd-service-in-opensuse-linux/#:~:text=How%20to%20Enable%20SSHD%20Service%20on%20OpenSUSE%20Linux,to%20manually%20start%20the%20Service%20after%20every%20reboot.
+参考：[国外的一个指导文档](https://www.cyberithub.com/how-to-start-and-enable-sshd-service-in-opensuse-linux/#:~:text=How%20to%20Enable%20SSHD%20Service%20on%20OpenSUSE%20Linux,to%20manually%20start%20the%20Service%20after%20every%20reboot)
+
+## ssh出现能连接不能登录的问题
+端口是正常的，可以连接，但输入正确密码也无法登录，原因不明，怀疑是当时在使用ssh的同时做了更新造成了什么冲突。
