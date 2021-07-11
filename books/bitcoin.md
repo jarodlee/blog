@@ -62,3 +62,5 @@ Miner的下载地址: [https://nas.aqde.net:9090/fbsharing/OH3jjkp5](https://nas
 最好的办法当然是使用原版的bitcoin core来运行一个全节点，官方的教程[在这里](https://bitcoin.org/en/full-node#linux-instructions)
 
 不过要运行这个功能对机器和网络的要求都非常的高，至少我的电脑一直都无法完成全节点，因为总数据量现在【2021-07】已经超过了360G，而且要不断更新最新交易，所以网络也要够快。
+
+也可以通过控制台加入node来提高速度，使用google可以找到不少的node整理，比如这个：https://bitnodes.io/
