@@ -9,6 +9,7 @@
 大部分个人应用都带有介绍朋友使用的功能，在这里一并整合展示
 
 ### 数字货币
+门罗币：[在线购买多种数字币](https://agoradesk.com/buy-bitcoin-with-sgd-in-singapore?rc=w9vv) 网站位于新加坡，相对安全。
 
 麻瓜宝，[数字货币商户](https://merchants.mugglepay.com/user/register?ref=MPRM5)
 
