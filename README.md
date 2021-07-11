@@ -46,9 +46,10 @@ miniOP:[http://192.168.1.254/](http://192.168.1.254/)
 
 ### 自己搭建的学习平台与成果
 
-软路由的百度盘：[http://192.168.1.1:5299/](http://192.168.1.1:5299/)
 
-软路由的KOD：[http://192.168.1.1:8080](http://192.168.1.1:8080)
+黑群晖的SSL控制台：[https://nas.aqde.net:9090/](https://nas.aqde.net:9090/)
+
+软路由的百度盘：[http://192.168.1.1:5299/](http://192.168.1.1:5299/)
 
 地云科技的早期网站：[https://b.aqde.net:8/](https://b.aqde.net:8/)
 
@@ -59,8 +60,6 @@ DELL-bt面板：[https://d.aqde.net:65534/](https://d.aqde.net:65534/)
 NAS上的GitLab：[http://nas.aqde.net:30000](http://nas.aqde.net:30000)
 
 NNAS上的自建gitlab:[https://aqgitlab.ddnsto.com/](https://aqgitlab.ddnsto.com/)
-
-黑群晖的SSL控制台：[https://nas.aqde.net:9090/](https://nas.aqde.net:9090/)
 
 黑群晖上的相册:[https://nas.aqde.net:1980/photo/](https://nas.aqde.net:1980/photo/)
 
